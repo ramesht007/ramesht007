@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on reasearch regarding federated learning, Secure Multi-Party Computation, Privacy Preserving Machine learning.
 - 💬 Ask me about anything [here](https://github.com/ramesht007/ramesht007/issues/1)
 - 😄 Delivered several talks and seminars at colleges.
-- 🌱 I've worked onvarious research projects regarding applications of deep learning and machine learning on mechanical systems and Bio-medical applications.
+- 🌱 I've worked on various research projects regarding applications of deep learning and machine learning on mechanical systems and Bio-medical applications.
 - ⚡ Actively contributing to [@OpenMined](https://github.com/OpenMined)
 
 
