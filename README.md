@@ -13,7 +13,7 @@
 📫 How to reach me: 
 
 <a href="ramesht3704@gmail.com">
-  <img align="left" alt="ramesht shukla | gmail" width="45px" src="https://raw.githubusercontent.com/ramesht007/ramesht007/master/assets/gmail.svg" />
+  <img align="left" alt="ramesht shukla | gmail" width="55px" src="https://raw.githubusercontent.com/ramesht007/ramesht007/master/assets/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ramesht-3704">
   <img align="left" alt="Ramesht shukla | Linkedin" width="55px" src="https://raw.githubusercontent.com/ramesht007/ramesht007/master/assets/linkedIN.svg" />
