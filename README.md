@@ -4,7 +4,7 @@
 ### I'm Ramesht
 
 
-- 🔭 I’m currently working on Federated learning and Secure Multi-party Computation.
+- 🔭 I’m currently learning Federated learning and Secure Multi-party Computation.
 - 💬 Ask me about anything [here](https://github.com/ramesht007/ramesht007/issues/1)
 - 😄 Delivered several talks and seminars at colleges.
 - ⚡ Actively contributing to [@OpenMined](https://github.com/OpenMined)
