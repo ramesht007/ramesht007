@@ -15,12 +15,13 @@
 📫 How to reach me: 
 
 <a href="https://www.linkedin.com/in/ramesht-3704">
-  <img align="left" alt="Ramesht shukla | Linkedin" width="38px" src="https://raw.githubusercontent.com/ramesht007/ramesht007/master/assets/linkedIN.svg" />
+  <img align="left" alt="Ramesht shukla | Linkedin" width="55px" src="https://raw.githubusercontent.com/ramesht007/ramesht007/master/assets/linkedIN.svg" />
 </a>
 <a href="https://twitter.com/rameshtshukla">
-  <img align="left" alt="Ramesht Shukla | twitter" width="30px" src="https://raw.githubusercontent.com/ramesht007/ramesht007/master/assets/twitter.svg" />
+  <img align="left" alt="Ramesht Shukla | twitter" width="45px" src="https://raw.githubusercontent.com/ramesht007/ramesht007/master/assets/twitter.svg" />
 </a>
 
+<br />
 <br />
 <br />
 
