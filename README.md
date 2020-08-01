@@ -25,11 +25,14 @@
 <br />
 <br />
 
-🤗 You can find me on:
+---
 
-<a href="http://slack.openmined.org">
-  <img align="left" alt="OpenMined Slack Community" width="32px" src="https://raw.githubusercontent.com/ramesht007/ramesht007/master/assets/slack.svg" />
-</a>
+[![Ramesht's github stats](https://github-readme-stats.vercel.app/api?username=ramesht007&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramesht007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!-- 🌱 I’m currently learning ...- 👯 I’m looking to collaborate on ...- 🤔 I’m looking for help with ...-->
