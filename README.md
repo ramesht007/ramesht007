@@ -10,6 +10,7 @@
 - 😄 Delivered several talks and seminars at colleges.
 - 🌱 I've worked on various research projects regarding applications of deep learning and machine learning on mechanical systems and Bio-medical applications.
 - ⚡ Actively contributing to [@OpenMined](https://github.com/OpenMined)
+- 🌱 Federatred learning team member and Natural language processing team member at [@OpenMined](https://github.com/OpenMined)
 
 
 📫 How to reach me: 
