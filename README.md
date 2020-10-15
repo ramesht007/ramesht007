@@ -15,7 +15,7 @@
 - 🌱 Federatred learning team member and Natural language processing team member at [@OpenMined](https://github.com/OpenMined).
 
 
-📫 How to reach me:- 
+📫 How to reach me :- 
 
 <a href="https://www.linkedin.com/in/ramesht-3704">
   <img align="left" alt="Ramesht shukla | Linkedin" width="55px" src="https://raw.githubusercontent.com/ramesht007/ramesht007/master/assets/linkedIN.svg" />
