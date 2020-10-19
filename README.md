@@ -29,9 +29,6 @@
 ---
 
 [![Ramesht's github stats](https://github-readme-stats.vercel.app/api?username=ramesht007&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramesht007&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
