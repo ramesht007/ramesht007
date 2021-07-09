@@ -26,6 +26,7 @@
 <br />
 <br />
 
+![](https://komarev.com/ghpvc/?username=ramesht007&color=green)
 ---
 
 [![Ramesht's github stats](https://github-readme-stats.vercel.app/api?username=ramesht007&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
