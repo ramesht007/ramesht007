@@ -4,7 +4,7 @@
 ### I'm Ramesht!
 
 
-- 👨‍🎓 En route of becoming Mastrers student in computer Science.
+- 👨‍🎓 En route of becoming Masters student in computer Science.
 - 👯 I’m looking to collaborate on research regarding federated learning, Secure Multi-Party Computation, Privacy Preserving Machine learning.
 - 💬 Ask me about anything [here](https://github.com/ramesht007/ramesht007/issues/1).
 - 😄 Delivered several talks and seminars at colleges.
