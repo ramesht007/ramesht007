@@ -5,12 +5,11 @@
 
 
 - 👨‍🎓 En route of becoming Masters student in computer Science.
-- 👯 I’m looking to collaborate on research regarding federated learning, Secure Multi-Party Computation, Privacy Preserving Machine learning.
+- 👯 Currently, learning in MLops and Machine learning in production.
+- 📖 Highly interseted in bringing ML to edge devices. Checkout [NimbleEde](https://github.com/NimbleEdge) project where we are working to make this idea a reality.
 - 💬 Ask me about anything [here](https://github.com/ramesht007/ramesht007/issues/1).
-- 😄 Delivered several talks and seminars at colleges.
-- 🌱 I've worked on various research projects regarding applications of deep learning and machine learning and federated learning on Edge Devices.
-- ⚡ Actively contributing to [@OpenMined](https://github.com/OpenMined).
-- 🌱 Federatred learning team member and Natural language processing team member at [@OpenMined](https://github.com/OpenMined).
+- 🌱 I've worked on various research projects and Currently a Data Science Intern as [Grab](https://www.grab.com/sg/).
+- ⚡ Actively contributing to [NimbleEdge](https://github.com/NimbleEdge)and [@OpenMined](https://github.com/OpenMined).  
 
 
 📫 How to reach me :- 
