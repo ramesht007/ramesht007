@@ -9,7 +9,7 @@
 - 📖 Highly interseted in bringing ML to edge devices. Checkout [NimbleEde](https://github.com/NimbleEdge) project where we are working to make this idea a reality.
 - 💬 Ask me about anything [here](https://github.com/ramesht007/ramesht007/issues/1).
 - 🌱 I've worked on various research projects and Currently a Data Science Intern as [Grab](https://www.grab.com/sg/).
-- ⚡ Actively contributing to [NimbleEdge](https://github.com/NimbleEdge)and [@OpenMined](https://github.com/OpenMined).  
+- ⚡ Actively contributing to [NimbleEdge](https://github.com/NimbleEdge) and [@OpenMined](https://github.com/OpenMined).  
 
 
 📫 How to reach me :- 
