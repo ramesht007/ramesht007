@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-
-### I'm Ramesht!
-
-
 - 👨‍🎓 En route of becoming Masters student in computer Science.
 - 👯 Currently, learning in MLops and Machine learning in production.
 - 📖 Highly interseted in bringing ML to edge devices. Checkout [RecoEdge](https://github.com/NimbleEdge) project where we are working to make this idea a reality.
