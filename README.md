@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👨‍🎓 En route of becoming Masters student in computer Science.
+- 👨‍🚀 Data Scientist at [@Grab](https://github.com/grab).
 - 👯 Currently, learning in MLops and Machine learning in production.
 - 📖 Highly interseted in bringing ML to edge devices. Checkout [EnvisEdge](https://github.com/NimbleEdge/EnvisEdge) project where we are working to make this idea a reality.
 - 💬 Ask me about anything [here](https://github.com/ramesht007/ramesht007/issues/1).
